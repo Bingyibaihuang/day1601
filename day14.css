@@ -52,7 +52,8 @@ body{
 	display:block;
 	padding:0 15px;}
 .banner .logo{
-	margin-top:50px;}
+	margin-top:50px;
+	margin-left:320px;}
 .banner p{
 	font-size:22px;
 	color:#fff;
